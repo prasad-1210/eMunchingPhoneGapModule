@@ -3,10 +3,10 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.emunching.emunching"
         version   = "1.0.0">
-    <name>eMunching</name>
+    <name>EBony Test</name>
 
     <description>
-        Emunching Restarant Application
+        EBony Restarant Application
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
